@@ -1,4 +1,4 @@
-![Screenshot](/screenshot.jpg)
+![Screenshot](./screenshot.jpg)
 
 # 소각장 (Burn It) 🔥
 
