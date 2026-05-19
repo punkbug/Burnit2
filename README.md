@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-![Screenshot](./screenshot.jpg)
-=======
 ![스크린샷](screenshot.png)
->>>>>>> c5e5e30 (README.md: Update screenshot reference to use Korean and change file format)
 
 # 소각장 (Burn It) 🔥
 
